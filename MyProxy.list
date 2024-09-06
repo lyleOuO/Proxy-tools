@@ -1,0 +1,17 @@
+#MyProxy.list
+
+# 个人主页
+DOMAIN,lyle.pp.ua
+# 网站监控
+DOMAIN,lyle.us.kg
+# 图床
+DOMAIN,pig.pp.ua
+DOMAIN,dog.pp.ua
+# TG频道
+DOMAIN-SUFFIX,channel.lyle.pp.ua
+# Alist
+DOMAIN-SUFFIX,alist.lyle.us.kg
+# cloudreve
+DOMAIN-SUFFIX,cloud.lyle.us.kg
+# 备忘录
+DOMAIN-SUFFIX,memos.lyle.us.kg
