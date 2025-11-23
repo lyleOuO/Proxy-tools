@@ -20,6 +20,7 @@ DOMAIN,tx.lilyemby.my
  
 # 纸片人 Emby
 DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,gd.9521732.xyz:443
  
 # 模糊匹配规则
 DOMAIN-SUFFIX,emby.wtf
