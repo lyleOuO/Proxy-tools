@@ -1,31 +1,18 @@
 # 自用 Emby 规则
  
  
-# 终点站
-# 高可用入口
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
- 
-# 备用入口规则
-DOMAIN,pub1.term.wtf
-DOMAIN,pub2.term.wtf
-DOMAIN,pub3.term.wtf
- 
 # Lily Emby
 # 主线路线路
-DOMAIN,www.lilyemby.com
+DOMAIN,free.lilyemby.com
 DOMAIN,cdn.lilyemby.com
-DOMAIN,tx.lilyemby.com
-DOMAIN,aliyun.lilyemby.com
+
 
  
 # 纸片人 Emby
 DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX,gd.9521732.xyz:443
+DOMAIN-SUFFIX,gd.9521732.xyz
  
 # 模糊匹配规则
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,term.wtf
-DOMAIN-SUFFIX,lilyemby.my
+DOMAIN-SUFFIX,lilyemby.com
 DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,9521732.xyz
